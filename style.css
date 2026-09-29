@@ -6,16 +6,17 @@ header{padding:28px 24px 16px;border-bottom:3px solid var(--ink)}
 header,main,footer{max-width:1088px;margin:0 auto}
 h1.site{margin:0;font-size:clamp(28px,5vw,48px);font-weight:700;line-height:1.5;letter-spacing:-.5px}
 .date{font-size:clamp(18px,3vw,30px);font-weight:500;color:#3a362f;line-height:1.5}
-main{max-width:760px;padding:44px 24px 0}
-.label{font-size:13px;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;color:var(--ac)}
-h2.lead{margin:22px 0;font-size:clamp(26px,4vw,42px);line-height:1.12;font-weight:700}
+main{padding:44px 24px 0}
+main>*{max-width:900px}
+.label{font-size:14px;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;color:var(--ac)}
 article{padding:22px 0;border-top:1px solid var(--line)}
-article:first-of-type{border-top:0}
+article:first-of-type{border-top:0;padding-top:14px}
 article h3{margin:0 0 8px;font-size:clamp(24px,3.6vw,36px);line-height:1.2;font-weight:700}
 article p{margin:0 0 8px;font-size:17px;line-height:1.65}
-.check{display:inline-block;background:#f3d9a4;color:#4a3200;font-size:14px;font-weight:600;padding:4px 10px;border-radius:3px;margin:0 0 8px}
-.src{font-size:14px;color:var(--mut)}
+.check{display:inline-block;background:#f3d9a4;color:#4a3200;font-size:15px;font-weight:600;padding:4px 10px;border-radius:3px;margin:0 0 8px}
+.src{font-size:15px;color:var(--mut)}
 .earlier{margin-top:22px}
 .earlier h2{margin:0 0 12px;font-size:24px;font-weight:700;border-bottom:1px solid var(--ink);padding-bottom:8px}
 .earlier p{color:var(--mut);font-size:16px;margin:0}
-footer{padding:24px;margin-top:48px;font-size:13px;color:var(--mut);border-top:1px solid var(--line)}
+footer{padding:24px;margin-top:48px;font-size:14px;color:var(--mut);border-top:1px solid var(--line)}
+@media(min-width:900px){article p{font-size:19px}.earlier p{font-size:18px}}
