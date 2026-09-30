@@ -36,16 +36,19 @@ if (!fs.existsSync(briefDir)) fail('the "briefs" folder is missing');
 const files = fs.readdirSync(briefDir).filter((f) => f.endsWith('.json')).sort();
 if (!files.length) fail('no brief files found in the "briefs" folder');
 
-const briefs = [];
+const byDate = {};
 for (const f of files) {
-  if (!/^\d{4}-\d{2}-\d{2}\.json$/.test(f)) fail('file name "' + f + '" must look like 2026-09-30.json');
+  // Main file:  2026-10-01.json      Extra stories added later:  2026-10-01-extra.json (any word after the date)
+  const nm = /^(\d{4}-\d{2}-\d{2})(-[a-z0-9]+)?\.json$/.exec(f);
+  if (!nm) fail('file name "' + f + '" must look like 2026-09-30.json (or 2026-09-30-extra.json for stories added later)');
+  const isExtra = !!nm[2];
   let data;
   try {
     data = JSON.parse(fs.readFileSync(path.join(briefDir, f), 'utf8'));
   } catch (e) {
     fail(f + ' is not valid JSON (' + e.message + '). Check for a missing comma or quote.');
   }
-  if (data.date !== f.replace('.json', '')) fail(f + ': the "date" inside the file (' + data.date + ') must match the file name');
+  if (data.date !== nm[1]) fail(f + ': the "date" inside the file (' + data.date + ') must match the date in the file name');
   const info = dateInfo(data.date, f);
   if (!Array.isArray(data.stories)) fail(f + ': "stories" must be a list');
   if (!data.stories.length && !isStr(data.note)) fail(f + ': a day with no stories needs a "note", e.g. "Quiet day. Nothing new found."');
@@ -61,21 +64,20 @@ for (const f of files) {
       if (!/^https?:\/\//i.test(src.url || '')) fail(w + ', source ' + (j + 1) + ': "url" must start with http:// or https://');
     });
   });
-  briefs.push({
-    date: data.date,
-    label: info.label,
-    short: info.short,
-    note: data.note || '',
-    stories: data.stories.map((s) => ({
-      title: s.title.trim(),
-      body: s.body.trim(),
-      check: (s.check || '').trim(),
-      tag: (s.tag || '').trim(),
-      sources: s.sources.map((x) => ({ label: x.label.trim(), url: x.url.trim(), date: (x.date || '').trim() })),
-    })),
-    whatsapp: data.whatsapp || '',
-  });
+  const stories = data.stories.map((s) => ({
+    title: s.title.trim(),
+    body: s.body.trim(),
+    check: (s.check || '').trim(),
+    tag: (s.tag || '').trim(),
+    sources: s.sources.map((x) => ({ label: x.label.trim(), url: x.url.trim(), date: (x.date || '').trim() })),
+  }));
+  const day = byDate[data.date] || (byDate[data.date] = { date: data.date, label: info.label, short: info.short, note: '', stories: [], whatsapp: '' });
+  day.stories = isExtra ? day.stories.concat(stories) : stories.concat(day.stories); // main file's stories first, extras after
+  if (!isExtra) { day.note = data.note || ''; day.whatsapp = data.whatsapp || ''; }
+  else if (!day.note && !day.stories.length) day.note = data.note || '';
 }
+const briefs = Object.keys(byDate).map((k) => byDate[k]);
+briefs.forEach((b) => { if (b.stories.length) b.note = ''; });
 briefs.sort((a, b) => (a.date < b.date ? 1 : -1)); // newest first
 
 // ---- same markup as site/app.js uses for older briefs ----
