@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CV Raman Marg Daily Brief</title>
+<meta name="description" content="<!--DESCRIPTION-->">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="head-row">
+    <div>
+      <h1 class="site">CV Raman Marg Daily Brief</h1>
+      <div class="date" id="date"><!--DATE--></div>
+    </div>
+    <form class="search" role="search" onsubmit="return false">
+      <label for="q" class="sr">Search all briefs</label>
+      <input id="q" type="search" placeholder="Search all briefs" autocomplete="off" enterkeyhint="search">
+      <button type="button" id="clear" hidden>Clear</button>
+    </form>
+  </div>
+</header>
+
+<main>
+  <section id="results" hidden aria-live="polite"></section>
+  <div id="browse">
+    <section id="today">
+      <div class="label" id="today-label">Latest brief</div>
+<!--LATEST-->
+    </section>
+    <section id="archive">
+      <h2>Earlier briefs</h2>
+      <div id="archive-list"><p class="muted">Loading earlier briefs...</p></div>
+      <noscript><p class="muted">Turn on JavaScript to search and browse earlier briefs.</p></noscript>
+    </section>
+  </div>
+</main>
+
+<footer>Compiled from linked public sources. Items marked NEEDS CHECK are unverified.</footer>
+<script src="app.js"></script>
+<!--COUNTER-->
+</body>
+</html>

@@ -1,0 +1,84 @@
+{
+  "date": "2026-09-29",
+  "stories": [
+    {
+      "title": "Barapullah Phase III elevated corridor inaugurated",
+      "body": "Union Home Minister Amit Shah inaugurated the PWD's Barapullah Phase III elevated corridor today, a signal-free link between Mayur Vihar Phase I and Sarai Kale Khan. Reports put the cost at about Rs 1,635 crore and describe six lanes, a cycle track, pedestrian sidewalks and an extra-dosed bridge over the Yamuna. The foundation stone was laid in 2014 and construction began in April 2015 against a 30-month target. Reports cite land acquisition, power-line relocation, the 2018 Yamuna flooding and tree-cutting permissions among the causes of delay. Combined with Phases I and II, the run is described as roughly 9 to 10 km of signal-free road toward AIIMS.",
+      "check": "length is 3.5 km in two outlets, 4.9 km with ramps in another; time savings are quoted differently (Mayur Vihar to AIIMS from 35-40 minutes to about 15, versus 20-25 minutes saved at peak)",
+      "sources": [
+        {
+          "label": "Daily Jagran",
+          "url": "https://www.thedailyjagran.com/india/news/delhi-traffic-alert-barapullah-phase-3-ring-road-congestion-expected-sarai-kale-maharani-bagh-ashram-chowk-10330857",
+          "date": "29 Sep 2026"
+        },
+        {
+          "label": "Sunday Guardian",
+          "url": "https://sundayguardianlive.com/india/delhi-traffic-alert-today-september-29-which-roads-to-avoid-as-barapullah-phase-iii-opens-check-traffic-advisory-294972/",
+          "date": "29 Sep 2026"
+        },
+        {
+          "label": "India.com",
+          "url": "https://www.india.com/news/india/barapullah-phase-3-mayur-vihar-sarai-kale-khan-south-delhi-amit-shah-parvesh-verma-rekha-gupta-aiims-rajnath-singh-mukarba-chowk-maharani-bagh-ashram-chowk-8531077/",
+          "date": "29 Sep 2026"
+        }
+      ]
+    },
+    {
+      "title": "Ring Road advisory, 9 am to 2 pm today",
+      "body": "Delhi Traffic Police advised motorists to avoid the Ring Road stretch between Sarai Kale Khan and Ashram Chowk from 9 am to 2 pm today because of the PWD's inauguration event for the Barapullah corridor. Drivers were asked to use alternative routes and follow instructions from traffic personnel at the site. Sarai Kale Khan, Maharani Bagh and Ashram Chowk were named as the affected areas, and slow-moving traffic was expected on key routes around them through the day. The published reports did not list specific diversions.",
+      "check": "",
+      "sources": [
+        {
+          "label": "ThePrint",
+          "url": "https://theprint.in/india/traffic-advisory-issued-for-barapullah-phase-iii-flyover-inauguration/3056132/",
+          "date": "28 Sep 2026"
+        },
+        {
+          "label": "Daily Jagran",
+          "url": "https://www.thedailyjagran.com/india/news/delhi-traffic-alert-barapullah-phase-3-ring-road-congestion-expected-sarai-kale-maharani-bagh-ashram-chowk-10330857",
+          "date": "29 Sep 2026"
+        }
+      ]
+    },
+    {
+      "title": "Planned BSES power cuts listed for New Friends Colony and Taimoor Nagar",
+      "body": "A Times Now Navbharat schedule lists two planned power cuts for transformer preventive maintenance in the area. The first is a one-hour cut, 10 to 11 am today, listed under \"New Friends Colony\", with Gafoor Nagar, Okhla, shown as the affected area. The second is from 11 am to 12 noon on 30 September at Block B, Taimoor Nagar. The schedule gives maintenance as the only reason and advises residents to check with their power company for exact details of their neighbourhood.",
+      "check": "single aggregator source; verify on the BSES notice",
+      "sources": [
+        {
+          "label": "Times Now Navbharat, 29 Sep schedule",
+          "url": "https://www.timesnowhindi.com/cities/delhi-power-cut-schedule-29-september-2026-electricity-outage-ajmeri-gate-punjabi-bagh-karampura-janakpuri-kotla-chhattarpur-areas-list-and-timmings-article-156241242",
+          "date": "29 Sep 2026"
+        },
+        {
+          "label": "Times Now Navbharat, 30 Sep schedule",
+          "url": "https://www.timesnowhindi.com/cities/delhi-power-cut-schedule-30-september-2026-electricity-outage-dariyaganj-khanpur-mahipalpur-jasola-areas-list-and-timmings-article-156246576",
+          "date": "29 Sep 2026"
+        }
+      ]
+    },
+    {
+      "title": "Jamia Millia Islamia",
+      "body": "Jamia's press releases of 28 and 29 September cover three items. The university reports a 334th global position in the UI GreenMetric World University Rankings 2026 (28 Sep). Delegates from the University of Applied Sciences, Erfurt, Germany, visited the Department of Civil Engineering, where the two universities worked out modalities to renew an MoU more than two decades old (28 Sep). A three-day national consultative meet on skilling initiatives in Assam's tea gardens was inaugurated at Jamia (29 Sep).",
+      "check": "full details (ranking context, meet organiser and dates) are in PDF releases that were not opened",
+      "sources": [
+        {
+          "label": "Jamia press release: ranking",
+          "url": "https://jmi.ac.in/BULLETIN-BOARD/Press-Release/Latest/6131",
+          "date": "28 Sep 2026"
+        },
+        {
+          "label": "Jamia press release: Erfurt visit",
+          "url": "https://jmi.ac.in/BULLETIN-BOARD/Press-Release/Latest/6132",
+          "date": "28 Sep 2026"
+        },
+        {
+          "label": "Jamia press release: skilling meet",
+          "url": "https://jmi.ac.in/BULLETIN-BOARD/Press-Release/Latest/6136",
+          "date": "29 Sep 2026"
+        }
+      ]
+    }
+  ],
+  "whatsapp": "CV Raman Marg Daily Brief, Tue 29 Sep\nBarapullah Phase III opened today. Ring Road Sarai Kale Khan-Ashram (Maharani Bagh) advised to avoid 9 am-2 pm.\nBSES maintenance cuts listed: NFC 10-11 am today; Taimoor Nagar Blk B 11 am-12 tomorrow (to be verified).\nJamia ranked 334th in UI GreenMetric 2026."
+}

@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-30",
+  "stories": [
+    {
+      "title": "Update: Barapullah Phase III - experts flag Sarai Kale Khan and Ashram; PWD plans traffic study",
+      "body": "ThePrint (29 Sep, 9:51 pm) quotes two traffic experts on where the new corridor may add pressure. S Velmurugan of NCAER said traffic at Ashram junction could face \"clubbing of vehicles\" coming down from Barapullah. Sewa Ram of the School of Planning and Architecture said Sarai Kale Khan is already congested because the Ring Road stretch there is short, and that merging of more traffic could become a problem. ThePrint adds that the PWD has recently planned a traffic simulation study of the entire South Delhi network, including Sarai Kale Khan. The Tribune (30 Sep) reports a connection near Kalindi Colony lets Ashram-bound vehicles exit before the most congested part of Ring Road.",
+      "check": "the Kalindi Colony exit comes from a single report; confirm with the PWD or Delhi Traffic Police",
+      "sources": [
+        {
+          "label": "ThePrint",
+          "url": "https://theprint.in/india/barapullah-phase-3-to-ease-east-south-delhi-travel-but-sarai-kale-khan-may-face-congestion-experts/3057346/",
+          "date": "29 Sep 2026"
+        },
+        {
+          "label": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/delhi/delhis-barapullah-phase-iii-opens-after-decade-long-delay/",
+          "date": "30 Sep 2026"
+        }
+      ]
+    },
+    {
+      "title": "Two Jamia faculty recognitions: Delhi government function and Bihar healthcare council",
+      "body": "Jamia Millia Islamia's press releases of 29 September report two faculty recognitions. Dr Mohd. Faijullah Khan of the university was felicitated at the Delhi government's \"Ek Shaam Divyangjan Ke Naam\" function. Separately, a Hindi release says Professor Suraj Kumar of Jamia has been appointed chairman of the Bihar government's Allied and Healthcare Council. The releases as listed do not give further detail, such as the department, the venue and date of the function, or the term of the appointment.",
+      "check": "both items were read from the release headlines only; the full releases are PDFs that were not opened",
+      "sources": [
+        {
+          "label": "Jamia press release: felicitation",
+          "url": "https://jmi.ac.in/BULLETIN-BOARD/Press-Release/Latest/6135",
+          "date": "29 Sep 2026"
+        },
+        {
+          "label": "Jamia press release: Bihar council (Hindi)",
+          "url": "https://jmi.ac.in/BULLETIN-BOARD/Press-Release/Latest/6134",
+          "date": "29 Sep 2026"
+        }
+      ]
+    }
+  ],
+  "whatsapp": "CV Raman Marg Daily Brief, Wed 30 Sep\nBarapullah Phase III: experts expect pressure at Sarai Kale Khan and Ashram; PWD plans a South Delhi traffic study.\nJamia: a faculty member felicitated at a Delhi government function; a professor named chairman of Bihar's Allied and Healthcare Council."
+}
