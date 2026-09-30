@@ -31,14 +31,25 @@
     }).join('; ');
     return '<article class="story">' +
       (s.tag ? '<div class="tag">' + hl(s.tag, terms) + '</div>' : '') +
-      '<h3>' + hl(s.title, terms) + '</h3>' + paras +
+      '<h3><button type="button" class="hl" aria-expanded="true">' + hl(s.title, terms) + '</button></h3>' +
+      '<div class="detail">' + paras +
       (s.check ? '<div class="check">NEEDS CHECK: ' + hl(s.check, terms) + '</div>' : '') +
-      '<div class="src">Sources: ' + src + '</div></article>';
+      '<div class="src">Sources: ' + src + '</div></div></article>';
   }
 
   function dayBody(b, terms) {
     return b.stories.length ? b.stories.map(function (s) { return storyHtml(s, terms); }).join('') : '<p class="note">' + esc(b.note) + '</p>';
   }
+
+  // ---- click a story headline to collapse or expand the text under it ----
+  document.addEventListener('click', function (e) {
+    var b = e.target.closest ? e.target.closest('button.hl') : null;
+    if (!b) return;
+    var open = b.getAttribute('aria-expanded') !== 'false';
+    b.setAttribute('aria-expanded', open ? 'false' : 'true');
+    var d = b.parentNode.nextElementSibling;
+    if (d && d.classList.contains('detail')) d.hidden = open;
+  });
 
   // ---- "Today's brief" vs "Latest brief" (India time) ----
   function istToday() {
