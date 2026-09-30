@@ -89,9 +89,10 @@ function renderStory(s) {
   return (
     '<article class="story">' +
     (s.tag ? '<div class="tag">' + esc(s.tag) + '</div>' : '') +
-    '<h3>' + esc(s.title) + '</h3>' + paras +
+    '<h3><button type="button" class="hl" aria-expanded="true">' + esc(s.title) + '</button></h3>' +
+    '<div class="detail">' + paras +
     (s.check ? '<div class="check">NEEDS CHECK: ' + esc(s.check) + '</div>' : '') +
-    '<div class="src">Sources: ' + src + '</div></article>'
+    '<div class="src">Sources: ' + src + '</div></div></article>'
   );
 }
 
