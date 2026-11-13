@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-08",
+  "stories": [
+    {
+      "title": "Jamia's Premchand Archives holds lecture on Mahatma Gandhi and the university",
+      "body": "Jamia Millia Islamia's Premchand Archives and Literary Centre held a lecture on Mahatma Gandhi and his relationship with the university on Monday 5 October, according to a Jamia press release dated Wednesday 7 October. Prof. Mohammad Aleem of the Department of History and Culture delivered the main lecture, arguing that Gandhi inspired and guided Jamia's founding in the 1920s. Prof. Shahzad Anjum, the Centre's director, gave the welcome address, and Prof. Iqtidar Mohd. Khan, Dean of the Faculty of Humanities and Languages, chaired the session. Prof. Neeraj Kumar of the Hindi Department spoke as guest of honour on Gandhi's teachings. The release says a large number of students attended.",
+      "check": "The release page itself shows no date; the lecture date (5 Oct) and release date (7 Oct) come from the English PDF, while the PDF file name carries 6 Oct. Confirm with Jamia.",
+      "tag": "Jamia",
+      "sources": [
+        {
+          "label": "Jamia Millia Islamia press release",
+          "url": "https://jmi.ac.in/BULLETIN-BOARD/Press-Release/Latest/6146",
+          "date": "7 Oct 2026"
+        },
+        {
+          "label": "Jamia Millia Islamia press release (English PDF)",
+          "url": "https://jmi.ac.in/upload/publication/pr1_English_2026October6.pdf",
+          "date": "7 Oct 2026"
+        }
+      ]
+    },
+    {
+      "title": "Jamia organises cyber safety programme on fraud, digital harassment and deepfakes",
+      "body": "Jamia Millia Islamia has organised a cyber safety and awareness programme on cyber fraud, digital harassment and deepfakes in the AI era, according to a press release listed on its website for Tuesday 6 October. The release page does not state the venue, the date of the programme itself or the speakers, and it quotes no one. The full text is in attached English, Hindi and Urdu PDFs, which could not be confirmed for this brief. Until the PDF is read, this should be treated as a headline-level report only.",
+      "check": "Venue, programme date and speakers are not on the release page. The English PDF link on the page appeared identical to the one on the Gandhi lecture release (6146), so the correct PDF needs confirming with Jamia.",
+      "tag": "Jamia",
+      "sources": [
+        {
+          "label": "Jamia Millia Islamia press release",
+          "url": "https://jmi.ac.in/BULLETIN-BOARD/Press-Release/Latest/6145",
+          "date": "6 Oct 2026"
+        }
+      ]
+    }
+  ],
+  "note": "",
+  "whatsapp": "CV Raman Marg Daily Brief, Thu 8 Oct\n\nJamia: Premchand Archives held a lecture on Mahatma Gandhi and Jamia on Mon 5 Oct; Prof. Mohammad Aleem gave the main talk (release of 7 Oct).\nJamia: a cyber safety programme on fraud, digital harassment and deepfakes was announced (release of 6 Oct; details not on the page).\nBarapullah Phase III: no report newer than 5 Oct, already carried.\nNo confirmed BSES, DJB, MCD, Delhi Police or Delhi Traffic Police items for our localities."
+}

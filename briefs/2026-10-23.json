@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-23",
+  "stories": [
+    {
+      "title": "Update: CPI(M) MPs write to Education Minister and Jamia VC as hunger strike continues",
+      "body": "Two CPI(M) Members of Parliament wrote on Wednesday 21 October about the continuing hunger strike at Jamia Millia Islamia, PTI reported on Thursday 22 October. Rajya Sabha MP John Brittas asked Union Education Minister Pralhad Joshi to take up the matter with the university and restore the students' union, dissolved in 2006, through free and fair elections. MP V. Sivadasan wrote to Vice-Chancellor Mazhar Asif urging engagement with the students and a time-bound process to restore elected representation. The letters also raise the rustication and suspension of protesting students. The reports mention no response from the ministry or the university, and no change in the strike, which began on Monday 12 October.",
+      "check": "NEEDS CHECK: one report (ETV Bharat, 20 October) says Jamia's hunger strike had ended, while PTI, The Tribune and The Hindustan Gazette (21-22 October) say it continues. Confirm the current status with Jamia and the students. Jamia has issued no press release after 21 October.",
+      "tag": "Jamia",
+      "sources": [
+        {
+          "label": "ThePrint (PTI)",
+          "url": "https://theprint.in/india/address-demands-of-student-protesters-in-jamia-srfti-cpim-mps-write-to-authorities/3079024/",
+          "date": "22 Oct 2026"
+        },
+        {
+          "label": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/delhi/left-mp-brittas-seeks-centres-intervention-as-jamia-students-continue-hunger-strike-for-students-union-polls",
+          "date": "22 Oct 2026"
+        },
+        {
+          "label": "The Hindustan Gazette",
+          "url": "https://thehindustangazette.com/election/jamia-students-reject-administrations-move-to-draft-union-constitution-vow-to-continue-hunger-strike-49095",
+          "date": "22 Oct 2026"
+        },
+        {
+          "label": "ETV Bharat",
+          "url": "https://www.etvbharat.com/en/state/student-protests-end-in-three-delhi-universities-enn26102004966",
+          "date": "20 Oct 2026"
+        }
+      ]
+    },
+    {
+      "title": "BSES lists one-hour power cut in New Friends Colony Block C on Friday 23 October",
+      "body": "BSES Rajdhani's maintenance schedule for Friday 23 October lists a power cut in Block C, New Friends Colony, from 11 am to 12 noon for preventive maintenance of a transformer, according to a Times Now Hindi listing. The listing places the entry under the New Friends Colony division. It names no other locality covered by this brief for that day. Schedules can change at short notice, and the listing does not say which lanes within the block are affected.",
+      "check": "Single secondary source (a news listing of the BSES schedule). Confirm the timing and the affected lanes on the BSES app or helpline.",
+      "tag": "Power",
+      "sources": [
+        {
+          "label": "Times Now Hindi",
+          "url": "https://www.timesnowhindi.com/cities/delhi-power-cut-schedule-23-october-2026-electricity-outage-sangam-vihar-chitranjan-park-east-of-kailash-lajpat-nagar-yamuna-vihar-mayur-vihar-areas-list-and-timmings-article-156385078",
+          "date": "23 Oct 2026"
+        }
+      ]
+    }
+  ],
+  "note": "",
+  "whatsapp": "CV Raman Marg Daily Brief, Fri 23 Oct\n\nJamia: two CPI(M) MPs wrote on Wed 21 Oct to the Education Minister and the Vice-Chancellor over the students' hunger strike (on since 12 Oct), seeking restoration of the students' union (PTI, 22 Oct). One earlier report said the strike had ended; later reports say it continues.\n\nPower: BSES lists an 11 am-12 noon cut in New Friends Colony Block C on Fri 23 Oct for transformer maintenance.\n\nNo confirmed Delhi Traffic Police, DJB, MCD or Delhi Police items for our localities."
+}

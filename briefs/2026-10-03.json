@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-03",
+  "stories": [
+    {
+      "title": "Update: Barapullah Phase III second lane opens; queues continue towards Mayur Vihar and Suryaghadi",
+      "body": "The second lane of the Barapullah Phase III corridor became operational on Thursday 1 October, the Tribune reported on Friday 2 October, adding that traffic still crawled towards Mayur Vihar and that barricades at the Mayur Vihar entry produced a stop-and-release pattern. Outlook India reports queues of 3.5 km on opening day and delays of 40-60 minutes, and quotes the South Delhi traffic DCP as saying navigation apps showed the route but not the traffic layering. Measures under consideration include an additional signal on the elevated corridor, stronger deployment at merge and exit points, and PWD retrofitting. Neither report says a Suryaghadi cloverleaf closure has been decided.",
+      "check": "NEEDS CHECK: The Tribune says the second lane opened on Thursday 1 October; Outlook dates the opening-day queue to 30 September. Queue length is given as about 3 km in earlier reports and 3.5 km by Outlook. Confirm with PWD or Delhi Traffic Police whether any Suryaghadi closure or new signal has been approved.",
+      "tag": "Update",
+      "sources": [
+        {
+          "label": "The Tribune",
+          "url": "https://www.tribuneindia.com/news/delhi/barapullah-phase-iii-opens-second-lane/",
+          "date": "2 Oct 2026"
+        },
+        {
+          "label": "Outlook India",
+          "url": "https://www.outlookindia.com/national/built-to-ease-traffic-barapullah-phase-iii-opens-to-kilometres-of-queues",
+          "date": "2 Oct 2026"
+        }
+      ]
+    }
+  ],
+  "note": "",
+  "whatsapp": "CV Raman Marg Daily Brief, Sat 3 Oct\n\nBarapullah Phase III: the second lane opened on Thu 1 Oct but queues continue towards Mayur Vihar and at Suryaghadi (Tribune, Outlook, 2 Oct).\nUnder consideration: an extra signal, more police at merge points, PWD retrofits. No Suryaghadi closure decided in these reports.\n\nNothing new confirmed on BSES cuts, water, MCD, Delhi Police or Jamia releases. Saturday sweep found no verifiable new openings or events in our localities."
+}

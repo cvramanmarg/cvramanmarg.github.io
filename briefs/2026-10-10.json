@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-10",
+  "stories": [
+    {
+      "title": "Update: Barapullah Phase III – U-turn near Gurudwara Bala Sahib, extra lane and traffic consultant announced; reports differ on U-turn status",
+      "body": "Delhi PWD Minister Parvesh Verma set out measures on Wednesday 7 October to ease congestion on the Barapullah Phase III corridor, according to PTI, ANI and The Daily Jagran. They include a U-turn near Gurudwara Bala Sahib on Ring Road for traffic heading to Old Barapullah, using part of the footpath between Sarai Kale Khan and ITO to add a lane, and appointing a consultant to study traffic and design. He also said Google Maps needs about 15 days to reflect real-time traffic on the new road. Delhi Traffic Police earlier named a structural bottleneck at the old Barapullah flyover as the main cause.",
+      "check": "NEEDS CHECK: The Daily Jagran says work on the U-turn has started; ANI says it is still being examined and is not approved. Confirm with PWD. Timelines for the lane and the consultant are not stated. These reports were published on 7 October, just outside the 48-hour window, and were not carried in earlier briefs.",
+      "tag": "Update",
+      "sources": [
+        {
+          "label": "ThePrint (PTI)",
+          "url": "https://theprint.in/india/barapullah-design-fault-aaps-legacy-road-widening-u-turn-in-works-parvesh-verma/3064897/",
+          "date": "7 Oct 2026"
+        },
+        {
+          "label": "ANI",
+          "url": "https://aninews.in/news/national/general-news/barapullah-bottleneck-delhi-pwd-minister-flags-planning-gaps-under-previous-aap-govt-dedicated-u-turn-proposed16020261007210124/",
+          "date": "7 Oct 2026"
+        },
+        {
+          "label": "The Daily Jagran",
+          "url": "https://www.thedailyjagran.com/india/news/barapullah-phase-3-traffic-delhi-plans-u-turn-extra-lane-to-ease-jams-know-what-changes-10331877",
+          "date": "7 Oct 2026"
+        }
+      ]
+    },
+    {
+      "title": "Jamia hosts delegation from the National Library and Archives of the UAE",
+      "body": "A three-member delegation from the National Library and Archives of the United Arab Emirates visited Jamia Millia Islamia's Dr. Zakir Husain Library on Thursday 8 October, according to a university press release dated Friday 9 October. The visitors were shown the manuscript section, including Quranic and other rare manuscripts, and toured other library sections. The release says both sides discussed possible future cooperation on manuscripts, archives, preservation, digitisation and research. It says the University Librarian welcomed the delegation and that a former ambassador, who earlier headed Jamia's India-Arab Cultural Centre, proposed sharing expertise and technology.",
+      "check": "The release page carries no date; the 8 October visit date comes from the PDF text, which refers to the visit as having taken place the previous day. Confirm with Jamia.",
+      "tag": "Jamia",
+      "sources": [
+        {
+          "label": "Jamia Millia Islamia press release",
+          "url": "https://jmi.ac.in/BULLETIN-BOARD/Press-Release/Latest/6149",
+          "date": "9 Oct 2026"
+        },
+        {
+          "label": "Jamia Millia Islamia press release (English PDF)",
+          "url": "https://jmi.ac.in/upload/publication/pr2_English_2026October9.pdf",
+          "date": "9 Oct 2026"
+        }
+      ]
+    },
+    {
+      "title": "Jamia-led national conclave on tea garden communities concludes in Guwahati",
+      "body": "A national conclave on empowerment, skilling, education, digital interventions and welfare schemes for tea garden communities was held in Guwahati from 5 to 7 October, per a Jamia Millia Islamia press release dated Friday 9 October. It was organised by Jamia's Department of Educational Studies with the Omeo Kumar Das Institute of Social Change and Development, as part of an ICSSR-sponsored project on the tea tribes of Assam. The release says discussions stressed linking research with policy and grassroots implementation, and building inclusive and sustainable pathways for the communities. It lists no formal recommendations.",
+      "check": "The brief of 30 September described a tea-garden skilling meet as inaugurated at Jamia, while this release places the conclave in Guwahati on 5 to 7 October. Confirm with Jamia whether these are the same event.",
+      "tag": "Jamia",
+      "sources": [
+        {
+          "label": "Jamia Millia Islamia press release",
+          "url": "https://jmi.ac.in/BULLETIN-BOARD/Press-Release/Latest/6148",
+          "date": "9 Oct 2026"
+        },
+        {
+          "label": "Jamia Millia Islamia press release (English PDF)",
+          "url": "https://jmi.ac.in/upload/publication/pr1_English_2026October9.pdf",
+          "date": "9 Oct 2026"
+        }
+      ]
+    },
+    {
+      "title": "Jamia's University Polytechnic reports a series of skill, AI awareness and career-readiness programmes",
+      "body": "Jamia Millia Islamia's University Polytechnic, part of the Faculty of Engineering and Technology, ran a series of professional development, skill enhancement, AI awareness, industry interaction and career-readiness programmes between August and October 2026, according to a press release dated Friday 9 October. Topics included AI and emerging technologies, cybersecurity and digital safety, communication and presentation skills, and workplace readiness, with speakers described as industry experts from in and around Delhi. The release does not list individual sessions, dates, venues or participant numbers.",
+      "tag": "Jamia",
+      "sources": [
+        {
+          "label": "Jamia Millia Islamia press release",
+          "url": "https://jmi.ac.in/BULLETIN-BOARD/Press-Release/Latest/6150",
+          "date": "9 Oct 2026"
+        },
+        {
+          "label": "Jamia Millia Islamia press release (English PDF)",
+          "url": "https://jmi.ac.in/upload/publication/pr4_English_2026October9.pdf",
+          "date": "9 Oct 2026"
+        }
+      ],
+      "check": ""
+    }
+  ],
+  "note": "",
+  "whatsapp": "CV Raman Marg Daily Brief, Sat 10 Oct\n\nBarapullah Phase III: PWD says a U-turn near Gurudwara Bala Sahib, a footpath lane and a traffic consultant are planned (reports of 7 Oct differ on whether U-turn work has begun).\nJamia: UAE National Library and Archives delegation visited the Zakir Husain Library on Thu 8 Oct; a tea-garden skilling conclave ended in Guwahati; University Polytechnic reports skill and AI programmes (releases of 9 Oct).\nNo confirmed BSES, DJB, MCD, Delhi Police or Delhi Traffic Police items for our localities.\nSaturday sweep: no verifiable new openings, events, tenders or RERA/DDA notices in our localities."
+}
