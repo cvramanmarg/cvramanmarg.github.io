@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-13",
+  "stories": [
+    {
+      "title": "BSES lists power cut in Maharani Bagh Block F on Friday 13 November, 11 am to 1 pm",
+      "body": "A BSES Rajdhani maintenance schedule for Friday 13 November lists a power cut in Block F, Maharani Bagh, from 11 am to 1 pm for maintenance of an LT circuit, according to a Times Now Navbharat listing published on Thursday 12 November. The listing places the entry under the New Friends Colony division. A second entry in that division, from 11 am to 11.45 am for maintenance of a ring main unit, is for a substation in Jasola, which this brief does not cover. No other locality covered here appears in the listing for that day. Schedules can change at short notice, and the listing does not say which lanes in the block are affected.",
+      "check": "Single secondary source (a news listing of the BSES schedule); the BSES notice itself was not opened. Confirm the timing and the affected lanes on the BSES app or helpline. A listing for Saturday 14 November was not found.",
+      "tag": "Power",
+      "sources": [
+        { "label": "Times Now Navbharat (Hindi)", "url": "https://www.timesnowhindi.com/cities/delhi-power-cut-schedule-13-november-2026-electricity-outage-gk-karampura-sainik-farm-civil-lines-gautam-nagar-tilak-nagar-rohini-areas-list-and-timmings-article-156499237", "date": "12 Nov 2026" }
+      ]
+    },
+    {
+      "title": "Update: Delhi Traffic Police Chhath advisory for 15-16 November covers East, North-East and Shahdara districts; no Kalindi Kunj stretch named",
+      "body": "Delhi Traffic Police issued an advisory on Thursday 12 November for Chhath Puja celebrations on Sunday 15 and Monday 16 November, ANI reported early on Friday 13 November. It applies to roads in the East, North-East and Shahdara districts. Commuters are asked to avoid Pusta Road between Shastri Park and Khajuri Chowk, the stretch from Nanaksar T-Point to Sonia Vihar toll, and the stretch from Shanti Van to Shamshan Ghat, and to use the Delhi-Dehradun Expressway or GT Road instead. Listed parking sites include Yamuna Khadar near DND. The reports name no road or ghat in Kalindi Kunj or in the other localities covered by this brief.",
+      "check": "NEEDS CHECK: the advisory as reported does not mention Kalindi Kunj, which PTI has placed in southeast Delhi, and the parking site 'Yamuna Khadar near DND' was not located relative to our roads. A separate advisory for South-East Delhi may follow; confirm on the Delhi Traffic Police X account (@dtptraffic) or helpline 1095 before publishing.",
+      "tag": "Chhath",
+      "sources": [
+        { "label": "ANI", "url": "https://aninews.in/news/national/general-news/delhi-traffic-police-announce-restrictions-diversions-for-chhath-puja20261113014144/", "date": "13 Nov 2026" },
+        { "label": "Asianet Newsable", "url": "https://newsable.asianetnews.com/india/delhi-traffic-police-issues-advisory-ahead-of-chhath-puja-2026-articleshow-9xywk0q", "date": "13 Nov 2026" }
+      ]
+    }
+  ],
+  "note": "",
+  "whatsapp": "CV Raman Marg Daily Brief, Fri 13 Nov\n\nPower: BSES lists an 11 am-1 pm cut in Maharani Bagh Block F on Fri 13 Nov for LT circuit maintenance (Times Now Navbharat, 12 Nov).\n\nChhath: Delhi Traffic Police's advisory for Sun 15 and Mon 16 Nov covers East, North-East and Shahdara roads (Pusta Road, Nanaksar T-Point to Sonia Vihar, Shanti Van to Shamshan Ghat). No Kalindi Kunj stretch is named; check @dtptraffic for any South-East advisory.\n\nJamia: no press release newer than Mon 9 Nov. Offline classes were due to resume Tue 10 Nov, with exams Mon 16 to Sat 21 Nov (IANS, 30 Oct). Confirm with Jamia.\n\nNo new DJB or MCD items found."
+}
